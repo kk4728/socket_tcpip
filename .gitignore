@@ -3,6 +3,7 @@
 *.swp
 *.o
 *.i
+*.obj
 .*.c[p][p].swp
 *.exe.stackdump
 *.stackdump
